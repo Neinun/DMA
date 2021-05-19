@@ -26,8 +26,8 @@ https://www.kaggle.com/c/riiid-test-answer-prediction
 
 	
 
-How to run the notebook
+### How to run the notebook
 
 
-### 1.Download the dataset from the above link.
-### 2.Change dataset path in code.
+#### 1.Download the dataset from the above link.
+#### 2.Change dataset path in code.
